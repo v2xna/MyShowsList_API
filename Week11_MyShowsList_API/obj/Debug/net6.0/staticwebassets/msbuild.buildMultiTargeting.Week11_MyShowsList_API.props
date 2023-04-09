@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Week11_MyShowsList_API.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Week11_MyShowsList_API.props" />
+</Project>
